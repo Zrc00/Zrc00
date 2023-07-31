@@ -6,7 +6,7 @@
 
 ### Github
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Zrc00&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Zrc's github stats](https://github-readme-stats.vercel.app/api?uZrc00&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zrc00&langs_count=6)
