@@ -1,16 +1,14 @@
-### Hi there 👋
+# Zrc00
 
-<!--
-**Zrc00/Zrc00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 开源项目
 
-Here are some ideas to get you started:
+[![](https://github-readme-stats.vercel.app/api/pin/?uZrc00&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Zrc's github stats](https://github-readme-stats.vercel.app/api?uZrc00&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zrc00&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zrc00&layout=compact&langs_count=6)
+
